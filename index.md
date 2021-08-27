@@ -1,7 +1,7 @@
 <html>
 	<style>
 		.b2{
-		font-size:200px;
+		font-size:30px;
 		text-align:center;
 		}
 	</style>
